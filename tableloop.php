@@ -6,7 +6,7 @@
       <?php
         for($i=6;$i<100;$i++){
           echo "<tr>";
-          echo "<td>คอลัมน์</td>";
+          echo "<td>เจมส์</td>";
           echo "</tr>";
         }
       ?>
